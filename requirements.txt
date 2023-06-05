@@ -46,3 +46,6 @@ validators==0.20.0
 watchdog==3.0.0
 zipp==3.15.0
 streamlit_folium
+st_folium
+geopandas
+folium
