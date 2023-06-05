@@ -16,7 +16,7 @@ with open('style.css') as f:
     
 st.markdown("<h1 style='text-align: center; color: black;'>DIRECTION INTERMINISTERIELLE DE LA TRANSFORMATION PUBLIQUE</h1>", unsafe_allow_html=True)
 
-st.image("./Logo_Services_Publics_Plus_.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
+st.image("./Images/Logo_Services_Publics_Plus_.png", caption=None, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
 
 nbr_total_avis = len(dataset)
 
